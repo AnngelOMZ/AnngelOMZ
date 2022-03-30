@@ -1,0 +1,4 @@
+- 👋 Hola, soy @AnngelOMZ
+- 👀 Estoy interesado en la programación de videojuegos en Unity y C#, además de la robótica y la programación en JavaScript.
+- 🌱 Actualmente estoy aprendiendo JavaScript y Unity Engine.
+- 📫 Puedes contactarme en: nngelo.14@gmail.com.
